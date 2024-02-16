@@ -11,7 +11,7 @@ this library reads .chart files from a function .parse()
 
 ## Functions
 
-### pygh.parse(*filename*)
+### pygh.parse(*filename*) -> *Song*:
 | Parameters | Description                              |
 | :--------  | :---------                            |
 | `filename` | the file path used to read, MUST be a .chart    |
